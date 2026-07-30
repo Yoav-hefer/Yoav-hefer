@@ -6,7 +6,7 @@ DevSecOps Graduate • AWS Certified Cloud Practitioner
 
 <p align="center">
 🎓 B.Sc. Information Systems Student <br>
-☁️ Cloud • DevOps • Kubernetes • Infrastructure Automation
+☁️ Cloud • DevOps • Infrastructure Automation
 </p>
 
 <p align="center">
