@@ -33,4 +33,4 @@ DevSecOps Graduate • AWS Certified Cloud Practitioner
 
 📧 **Email:** Yoavh7@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/PUT-YOUR-LINKEDIN-HERE
+💼 **LinkedIn:** https://www.linkedin.com/in/yoav-hefer/
